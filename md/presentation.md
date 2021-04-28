@@ -1,8 +1,8 @@
-<h2> Come trovare i migliori professionisti IT e ingegneri per la mia azienda? </h2>
+<h2> Come trovare i migliori professionisti freelance per la mia azienda? </h2>
 
 ---
 
-<h2> Cosa comporta reclutare oggi? </h2>
+<h2> Cosa comporta reclutare oggi un professionista? </h2>
 
 <div>
 <!-- .element: class="fragment" data-fragment-index="1" -->
@@ -16,7 +16,7 @@
 
 <div>
 <!-- .element: class="fragment" data-fragment-index="3" -->
-- Difficoltà nel trovare delle competenze giuste
+- Difficoltà nel trovare le giuste competenze
 </div>
 
 <br>
@@ -26,32 +26,32 @@ Dati 2020 per il settore IT
 
 ---
 
-<h2> Soluzione </h2>
+<h2> La soluzione? </h2>
 
-La soluzione si chiama <b>Calibreo</b>.<br>
-Un team dedicato calibrerà il freelance giusto per i bisogni della sua azienda.
+Si chiama <b>Calibreo</b>.<br>
+Un team dedicato calibrerà il freelance giusto per la tua azienda.
 
 ---
 
 <h2> Che cos'è Calibreo? </h2>
 
-Una piattaforma per sviluppatori fatta da sviluppatori
+Una piattaforma per freelance fatta da freelance
 
 <img src="assets/profile.png" alt="image" width="385"/>
 
 ---
 
-<h3><b>Trovare la persona giusta</b> grazie a</h3>
+<h3><b>Trovare la persona giusta</b> in 3 step</h3>
 
-- Valutazione dei freelancers <!-- .element: class="fragment" data-fragment-index="1" -->
+- Pre-validazione delle competenze tramite il metodo "drill down" <!-- .element: class="fragment" data-fragment-index="1" -->
 - Ricerca per posizione geografica e professione <!-- .element: class="fragment" data-fragment-index="2" -->
-- Validazione delle competenze tramite il metodo "drill down" <!-- .element: class="fragment" data-fragment-index="3" -->
+- Valutazione del freelance <!-- .element: class="fragment" data-fragment-index="3" -->
 
 <img src="assets/check.png" alt="image" width="700"/>
 
 ---
 
-<h3><b>Ricerca facile e veloce</b> col search engine<br></h3>
+<h3><b>Ricerca facile e veloce</b> grazie al search engine<br></h3>
 <img src="assets/search.png" alt="image" width="700"/>
 
 ---
