@@ -42,7 +42,7 @@
 					<rect opacity="1" transform="rotate(46 199.49999999999997,192.453125) " id="svg_4" height="200" width="200" y="92.45313" x="99.5" stroke-width="6" stroke="#6200EE" fill="none"/>
 					<rect opacity="1" transform="rotate(46 202.5,235.45312499999997) " id="svg_5" height="200" width="200" y="135.45313" x="102.5" stroke-width="6" stroke="#6200EE" fill="none"/>
 				</svg>
-				Calibreo - 2021
+				Calibreo&nbsp;-&nbsp;<span id="year">2021</span>
 			</div>
 		</div>
 
@@ -51,6 +51,8 @@
 		<script src="plugin/markdown/markdown.js"></script>
 		<script src="plugin/highlight/highlight.js"></script>
 		<script>
+			var year = new Date().getFullYear();
+			document.getElementById('year').innerText = year;
 			// var gaPropertyID = 'G-68FZ5E4VKQ';
 			// More info about initialization & config:
 			// - https://revealjs.com/initialization/

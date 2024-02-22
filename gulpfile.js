@@ -14,7 +14,7 @@ const resolve = require('@rollup/plugin-node-resolve').default
 const gulp = require('gulp')
 const tap = require('gulp-tap')
 const zip = require('gulp-zip')
-const sass = require('gulp-sass')
+const sass = require('gulp-sass')(require('sass'))
 const header = require('gulp-header')
 const eslint = require('gulp-eslint')
 const minify = require('gulp-clean-css')
@@ -156,11 +156,11 @@ gulp.task('plugins', () => {
 })
 
 gulp.task('css-themes', () => gulp.src(['./css/theme/source/*.{sass,scss}'])
-        .pipe(sass())
+        .pipe(sass().on('error', sass.logError))
         .pipe(gulp.dest('./dist/theme')))
 
 gulp.task('css-core', () => gulp.src(['css/reveal.scss'])
-    .pipe(sass())
+    .pipe(sass().on('error', sass.logError))
     .pipe(autoprefixer())
     .pipe(minify({compatibility: 'ie9'}))
     .pipe(header(banner))

@@ -21,7 +21,7 @@
 
 <br>
 <p class="small-text">
-Dati 2020 per il settore IT
+Dati 2023 per il settore IT
 </p>
 
 ---
@@ -41,7 +41,7 @@ Una piattaforma per freelance fatta da freelance
 
 ---
 
-<h3><b>Trovare la persona giusta</b> in 3 step</h3>
+<h3><b>Trovare la persona giusta</b> in 3 tappe</h3>
 
 - Pre-validazione delle competenze tramite il metodo "drill down" <!-- .element: class="fragment" data-fragment-index="1" -->
 - Ricerca per posizione geografica e professione <!-- .element: class="fragment" data-fragment-index="2" -->
@@ -71,7 +71,7 @@ Cliccare sull'immagine per controllare il video
 <h2> Early birds </h2>
 
 <div>
-Per le prime aziende iscrite, sono offerti <b>6 mesi senza commissione</b>, iniziando dalla prima prestazione.
+Per le prime aziende iscrite, sono offerti <b>3 mesi senza commissione</b>, iniziando dalla prima prestazione.
 </div>
 
 ---
@@ -81,7 +81,7 @@ Per le prime aziende iscrite, sono offerti <b>6 mesi senza commissione</b>, iniz
 <div style="text-align: left">
 <b>Contatto</b>: Anthony Tarlao - Calibreo founder
 
-<b>Mail</b>: contact@calibreo.ie
+<b>Mail</b>: contact@calibreo.it
 
-<b>Linkedin</b>: [https://www.linkedin.com/in/anthony-tarlao](https://www.linkedin.com/in/anthony-tarlao/?locale=it_IT)
+<b>Sito</b>: <u>[calibreo.it](https://calibreo.it)</u>
 </div>
