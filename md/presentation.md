@@ -59,7 +59,7 @@ Una piattaforma per freelance fatta da freelance
 <h3> Piattaforma per gestire i contratti online </h3>
 
 <video id="process-video" controls controlslist="nodownload" disablePictureInPicture playsinline poster="assets/mission.png">
-  <source type="video/mp4" src="assets/presentation.mp4">
+  <source type="video/mp4" src="assets/calibreo-clienti-demo.mp4">
 </video>
 
 <p class="small-text">
@@ -68,10 +68,17 @@ Cliccare sull'immagine per controllare il video
 
 ---
 
-<h2> Early birds </h2>
+<h2> Quanto costa? </h2>
+<br>
+- La commissione di Calibreo è pari al <b>10%</b> dell'importo totale, IVA inclusa.<br><br>
+- Esiste anche l'opzione "Pagamento anticipato", richiesta dal freelance. In questo caso, la commissione sarà solo del <b>5%</b>.
+
+---
+
+<h2> Promozione </h2>
 
 <div>
-Per le prime aziende iscrite, sono offerti <b>3 mesi senza commissione</b>, iniziando dalla prima prestazione.
+Col pagamento anticipato, sono offerti <b>3 prestazioni senza commissione</b>.
 </div>
 
 ---
@@ -79,9 +86,9 @@ Per le prime aziende iscrite, sono offerti <b>3 mesi senza commissione</b>, iniz
 <h2> Grazie </h2>
 
 <div style="text-align: left">
-<b>Contatto</b>: Anthony Tarlao - Calibreo founder
+<b>Contatto</b>: Miriam - Calibreo business developer
 
-<b>Mail</b>: contact@calibreo.it
+<b>Mail</b>: miriam@calibreo.it
 
 <b>Sito</b>: <u>[calibreo.it](https://calibreo.it)</u>
 </div>
